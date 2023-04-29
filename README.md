@@ -2,14 +2,10 @@
   <a href="https://github.com/Yunguer"></a>
   <img
     height="180em"
-    width="65%"
-    style="margin: 0"
     src="https://github-readme-stats.vercel.app/api?username=yunguer&include_all_commits=true&show_icons=true&theme=dark"
   />
   <img
     height="180em"
-    width="35%"
-    style="margin: 0"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunguer&layout=compact&theme=dark"
   />
 </div>
@@ -73,9 +69,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
   />
 </div>
- 
- ##
- 
+
 <div>
   <a href="https://www.instagram.com/ydmendes/" target="_blank"
     ><img
