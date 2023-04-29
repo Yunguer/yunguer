@@ -75,7 +75,7 @@
     alt="Yuyu-pic"
     height="150"
     style="border-radius: 50px"
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQxM2Q4N2QwN2Y3MzlkNDE4ODVhMGUwMzY3YjBjNTVjZThhYWJmMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LguMdOtbC2AwGmgaKw/giphy.gif"
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVhNWY0YjRhYzk0ZDk1MmNmNWE4ODAxMzAyNWE2YzU4MTk1YzExOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/oX7gdl1Hd2XAHJ37yG/giphy.gif"
   />
 </div>
 
