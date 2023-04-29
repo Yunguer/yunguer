@@ -16,59 +16,59 @@
   <br />
   <img
     align="center"
-    alt="Rafa-Js"
+    alt="Yuyu-Python"
     height="30"
     width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
   />
   <img
     align="center"
-    alt="Rafa-Ts"
+    alt="Yuyu-Java"
     height="30"
     width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
   />
   <img
     align="center"
-    alt="Rafa-React"
+    alt="Yuyu-C"
     height="30"
     width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
   />
   <img
     align="center"
-    alt="Rafa-HTML"
+    alt="Yuyu-C#"
     height="30"
     width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
   />
   <img
     align="center"
-    alt="Rafa-CSS"
+    alt="Yuyu-HTML"
     height="30"
     width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
   />
   <img
     align="center"
-    alt="Rafa-Python"
+    alt="Yuyu-CSS"
     height="30"
     width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
   />
   <img
     align="center"
-    alt="Rafa-Csharp"
+    alt="Yuyu-JavaScript"
     height="30"
     width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
   />
   <img
     align="right"
-    alt="Rafa-pic"
+    alt="Yuyu-pic"
     height="150"
     style="border-radius: 50px"
-    src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
   />
 </div>
 
