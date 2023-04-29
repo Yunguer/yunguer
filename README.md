@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div>
   <h1>Hello, I am Yunguer Dvorak Mendes!</h1>
 </div>
 
