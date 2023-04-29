@@ -1,18 +1,20 @@
-### Olá! Eu sou o Yunguer Dvorak Mendes!
-
 <div>
   <a href="https://github.com/Yunguer"></a>
   <img
     height="180em"
+    width="65%"
+    style="margin: 0"
     src="https://github-readme-stats.vercel.app/api?username=yunguer&include_all_commits=true&show_icons=true&theme=dark"
   />
   <img
     height="180em"
+    width="35%"
+    style="margin: 0"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunguer&layout=compact&theme=dark"
   />
 </div>
 
-<div style="display: inline_block">
+<div style="display: inline_block; align-self: center;">
   <br />
   <img
     align="center"
@@ -70,21 +72,17 @@
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
   />
-  <img
-    align="right"
-    alt="Yuyu-pic"
-    height="150"
-    style="border-radius: 50px"
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVhNWY0YjRhYzk0ZDk1MmNmNWE4ODAxMzAyNWE2YzU4MTk1YzExOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/oX7gdl1Hd2XAHJ37yG/giphy.gif"
-  />
 </div>
-
-##
 
 <div>
   <a href="https://www.instagram.com/ydmendes/" target="_blank"
     ><img
       src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      target="_blank"
+  /></a>
+  <a href="https://www.twitch.tv/ydmbr" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"
       target="_blank"
   /></a>
   <a href="https://twitter.com/yunguerdvorak" target="_blank"
@@ -103,4 +101,3 @@
       target="_blank"
   /></a>
 </div>
-
