@@ -14,7 +14,7 @@
   />
 </div>
 
-<div style="display: inline_block; align-self: center;">
+<div style="display: inline_block; align-self: ce;">
   <br />
   <img
     align="center"
@@ -73,7 +73,9 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
   />
 </div>
-
+ 
+ ##
+ 
 <div>
   <a href="https://www.instagram.com/ydmendes/" target="_blank"
     ><img
