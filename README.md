@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <h1>Olá, Eu sou o Yunguer Dvorak Mendes!</h1>
+  <h1>Hello, I am Yunguer Dvorak Mendes!</h1>
 </div>
 
 <div>
