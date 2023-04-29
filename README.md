@@ -4,12 +4,10 @@
   <a href="https://github.com/Yunguer"></a>
   <img
     height="180em"
-    width="50%"
     src="https://github-readme-stats.vercel.app/api?username=yunguer&include_all_commits=true&show_icons=true&theme=dark"
   />
   <img
     height="180em"
-    width="45%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunguer&layout=compact&theme=dark"
   />
 </div>
