@@ -12,18 +12,6 @@
   />
 </div>
 
-<div>
-  <a href="https://github.com/Yunguer"></a>
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=yunguer&include_all_commits=true&show_icons=true&theme=dark"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunguer&layout=compact&theme=dark"
-  />
-</div>
-
 <div style="display: inline_block">
   <br />
   <img
