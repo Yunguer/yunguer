@@ -68,6 +68,13 @@
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
   />
+  <img
+    align="right"
+    alt="Yuyu-pic"
+    height="150"
+    style="border-radius: 50px"
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVhNWY0YjRhYzk0ZDk1MmNmNWE4ODAxMzAyNWE2YzU4MTk1YzExOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/oX7gdl1Hd2XAHJ37yG/giphy.gif"
+  />
 </div>
 
 ##
