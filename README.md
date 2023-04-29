@@ -10,7 +10,7 @@
   />
 </div>
 
-<div style="display: inline_block; align-content: center; justify-content: center;">
+<div style="display: inline_block; align-items: center; justify-items: center;">
   <br />
   <img
     align="center"
