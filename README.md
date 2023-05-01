@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <a href="www.yunguerdvorak.com">💻 www.yunguerdvorak.com</a>
+  <a href="https://www.yunguerdvorak.com" target="_blank">🚀 www.yunguerdvorak.com 🚀</a>
 </div>
 
 ##
