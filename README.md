@@ -5,7 +5,6 @@
 <div>
   <a href="https://www.yunguerdvorak.com" target="_blank">🚀 www.yunguerdvorak.com 🚀</a>
 </div>
-
 ##
 
 <div>
