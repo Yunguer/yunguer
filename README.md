@@ -12,11 +12,11 @@
   <a href="https://github.com/Yunguer"></a>
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Yunguer&include_all_commits=true&show_icons=true&theme=dark"
+    src="https://github-readme-stats.vercel.app/api?username=yunguer&include_all_commits=true&show_icons=true&theme=dark"
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yunguer&layout=compact&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunguer&layout=compact&theme=dark"
   />
 </div>
 
