@@ -3,7 +3,9 @@
 </div>
 
 <div>
-  <a href="https://www.yunguerdvorak.com" target="_blank">🚀 www.yunguerdvorak.com 🚀</a>
+  <a href="https://www.yunguerdvorak.com" target="_blank"
+    >🚀 www.yunguerdvorak.com 🚀</a
+  >
 </div>
 
 ##
@@ -20,7 +22,7 @@
   />
 </div>
 
-<div style="display: inline_block; align-items: center; justify-items: center;">
+<div style="display: inline_block; align-items: center; justify-items: center">
   <br />
   <img
     align="center"
@@ -77,6 +79,13 @@
     height="30"
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
+  />
+  <img
+    align="right"
+    alt="Rafa-pic"
+    height="150"
+    style="border-radius: 50px"
+    src="https://www.pngplay.com/wp-content/uploads/11/Hollow-Knight-PNG-Background.png"
   />
 </div>
 
