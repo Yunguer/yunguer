@@ -117,7 +117,7 @@
   /></a>
 </div>
 
-<div>
+<div style="display: inline_block; align-items: center; justify-items: center">
   <img
     align="right"
     alt="Yuyu-pic"
