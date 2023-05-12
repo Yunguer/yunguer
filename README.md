@@ -80,13 +80,7 @@
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
   />
-  <img
-    align="right"
-    alt="Yuyu-pic"
-    height="100"
-    style="border-radius: 50px; margin-top: 30px"
-    src="https://www.pngplay.com/wp-content/uploads/11/Hollow-Knight-PNG-Background.png"
-  />
+  
 </div>
 
 ##
@@ -122,4 +116,11 @@
       src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
       target="_blank"
   /></a>
+  <img
+    align="right"
+    alt="Yuyu-pic"
+    height="150"
+    style="border-radius: 50px; margin-top: 30px"
+    src="https://www.pngplay.com/wp-content/uploads/11/Hollow-Knight-PNG-Background.png"
+  />
 </div>
