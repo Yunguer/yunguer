@@ -82,9 +82,9 @@
   />
   <img
     align="right"
-    alt="Rafa-pic"
-    height="150"
-    style="border-radius: 50px"
+    alt="Yuyu-pic"
+    height="100"
+    style="border-radius: 50px; margin-top: 30px"
     src="https://www.pngplay.com/wp-content/uploads/11/Hollow-Knight-PNG-Background.png"
   />
 </div>
