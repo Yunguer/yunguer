@@ -82,16 +82,6 @@
   />
 </div>
 
-<div>
-  <img
-    align="right"
-    alt="Yuyu-pic"
-    height="150"
-    style="border-radius: 50px; margin-top: 30px"
-    src="https://www.pngplay.com/wp-content/uploads/11/Hollow-Knight-PNG-Background.png"
-  />
-</div>
-
 ##
 
 <div>
@@ -125,4 +115,14 @@
       src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
       target="_blank"
   /></a>
+</div>
+
+<div>
+  <img
+    align="right"
+    alt="Yuyu-pic"
+    height="150"
+    style="border-radius: 50px; margin-top: 30px"
+    src="https://www.pngplay.com/wp-content/uploads/11/Hollow-Knight-PNG-Background.png"
+  />
 </div>
