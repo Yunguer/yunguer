@@ -14,11 +14,11 @@
   <a href="https://github.com/Yunguer"></a>
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=yunguer&include_all_commits=true&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple"
+    src="https://github-readme-stats-yunguer.vercel.app/api?username=yunguer&include_all_commits=true&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple"
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunguer&layout=compact&hide_progress=true&theme=midnight-purple"
+    src="https://github-readme-stats-yunguer.vercel.app/api/top-langs/?username=yunguer&layout=compact&hide_progress=true&theme=midnight-purple"
   />
 </div>
 
