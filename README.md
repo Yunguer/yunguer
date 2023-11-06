@@ -14,7 +14,7 @@
   <a href="https://github.com/Yunguer"></a>
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=yunguer&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=aura"
+    src="https://github-readme-stats.vercel.app/api?username=yunguer&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=dark"
   />
   <img
     height="180em"
