@@ -18,7 +18,7 @@
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunguer&layout=compact&hide_progress=true&theme=midnight-purple"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunguer&layout=compact&hide_progress=true&theme=dark"
   />
 </div>
 
